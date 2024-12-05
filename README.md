@@ -1,9 +1,7 @@
 Source code of "CaR: A cutting and repulsion-based evolutionary framework for mixed-integer programming problems"
 
-@ARTICLE{CaR,
-
-  author={Liu, Jiao and Wang, Yong and Huang, Pei-Qiu and Jiang, Shouyong},
-  
+@ARTICLE{CaR, \
+  author={Liu, Jiao and Wang, Yong and Huang, Pei-Qiu and Jiang, Shouyong}, \
   journal={IEEE Transactions on Cybernetics}, 
   
   title={CaR: A Cutting and Repulsion-Based Evolutionary Framework for Mixed-Integer Programming Problems}, 
